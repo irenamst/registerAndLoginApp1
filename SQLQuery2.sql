@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Users] ([USERNAME], [PASSWORD]) Values ('Max', 'Password!')
